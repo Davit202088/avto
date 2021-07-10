@@ -1,0 +1,11 @@
+Model Information:
+* title:	cartoon car
+* source:	https://sketchfab.com/3d-models/cartoon-car-cca5f25e7e084df7b8c132d7708a71de
+* author:	pat460 (https://sketchfab.com/pat460)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cartoon car" (https://sketchfab.com/3d-models/cartoon-car-cca5f25e7e084df7b8c132d7708a71de) by pat460 (https://sketchfab.com/pat460) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
